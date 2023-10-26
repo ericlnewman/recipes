@@ -1,0 +1,15 @@
+body{
+    font-size: medium;
+    font-weight: 300;
+    font-family: Helvetica, Verdana, sans-serif;
+    background-color: beige;
+    color:rgb(107, 107, 107);
+    text-align: left;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    width: 310;
+}
