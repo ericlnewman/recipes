@@ -13,3 +13,11 @@ img {
     height: auto;
     width: 310;
 }
+.container{
+    padding: 25px;
+    border: thick;
+    border-color: aliceblue;
+    margin: 10px;
+    height: 150px;
+    border-style: double;
+}
